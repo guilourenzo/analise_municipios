@@ -260,3 +260,4 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,flask
+finding-home/finding_home/data/BR_Municipios_2022.zip
